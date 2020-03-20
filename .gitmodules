@@ -1,0 +1,6 @@
+[submodule "Mortage-Planner-Backend"]
+	path = Mortage-Planner-Backend
+	url = git@github.com:sebastianpenttinen/Mortage-Planner-Backend.git
+[submodule "Mortage-Planner-FrontEnd"]
+	path = Mortage-Planner-FrontEnd
+	url = git@github.com:sebastianpenttinen/Mortage-Planner-FrontEnd.git
