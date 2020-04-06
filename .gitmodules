@@ -4,3 +4,6 @@
 [submodule "Mortage-Planner-FrontEnd"]
 	path = Mortgage-Planner-FrontEnd
 	url = git@github.com:sebastianpenttinen/Mortgage-Planner-FrontEnd.git
+[submodule "Mortgage-Planner-FrontEnd"]
+	path = Mortgage-Planner-FrontEnd
+	url = git@github.com:sebastianpenttinen/Mortgage-Planner-FrontEnd.git

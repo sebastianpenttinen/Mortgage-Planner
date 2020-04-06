@@ -7,11 +7,11 @@ services:
     volumes:
       - mongodb_data_container:/data/db
   frontend_container:
-    build: ./Mortage-Planner-FrontEnd
+    build: ./Mortgage-Planner-FrontEnd
     ports:
       - 8081:8080
   backend_container:
-    build: ./Mortage-Planner-Backend
+    build: ./Mortgage-Planner-Backend
     ports:
       - 8080:8080
     depends_on:
